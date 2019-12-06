@@ -1,6 +1,6 @@
 {
   "name": "rubik-short-utm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "ShortUtm.js",
   "author": "nikitandr <ns@indotech.ru>",
   "license": "MIT",
